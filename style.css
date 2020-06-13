@@ -1,5 +1,5 @@
 .has-bg-img { 
-    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("./assets/bg.JPG") center center;
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.6) 0%, rgba(92, 77, 66, 0.6) 100%), url("./assets/background1.jpeg") center center;
     background-size:cover;
     background-color: rgba(0, 0, 0, 1);
 }
